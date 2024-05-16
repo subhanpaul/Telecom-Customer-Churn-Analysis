@@ -1,20 +1,22 @@
 # Telecom-Customer-Churn-Analysis
 Examined customer churn data in Power BI with a focus on 7043 total customers, identified 1869 churned customers &amp; 5174 retained customers, providing actionable insights for retention strategies.
-Table of Contents
 
-# Project Overview
+
+# Table of Contents
+Project Overview 
 Data Source
 Tools Used
 Data Preparation
 Insights
 Recommendations
-Project Overview
+
+# Project Overview:
 The Telecommunications Retention Manager is actively seeking a comprehensive solution to elevate customer retention efforts and mitigate customer churn.
 Interpreted and gained insight into customer retention and how many of them joined, as well as how they are distributed on various parameters.
-Data Source
-Customer Churn Dataset : This dataset is from PwC Switzerland Virtual Internship Program offered by Forage, which contains Gender distribution, Tenure , Internet service, online security,Tech support, Contract Type, Payment Method, etc.
+# Data Source
+Customer Churn Dataset : This dataset contains Gender distribution, Tenure , Internet service, online security,Tech support, Contract Type, Payment Method, etc.
 
-Tools Used
+# Tools Used
 PowerBI - Creating Dashboards, Data Visualization
 Data Preparation
 Here's a quick rundown of the steps I took in the project:
@@ -29,14 +31,14 @@ Here's a quick rundown of the steps I took in the project:
 
 5️] Insights: Unearthed some fascinating findings!
 
-Insights
+# Insights
 1️] Overview : Total customers are 7043 with number of retained customers is 5174 & customers churned are 1869. •The rate of retained customers is 73.46% & the rate of churned customers is 26.54%, amounting to $16.06M yearly charges and $456.12K monthly charges. 2955 tech tickets and 3632 admin tickets opened. •There are about 16.21% customers who are senior citizens & percentage of senior citizens in churned customers is 25.46%.
 
 2️] Demographics : •Churn rate is higher for customers who have opted for Internet Services. Customers with Fiber Optic services have higher churn rate that is 69.39%. • Average Tenure of customers is 32.37% & Average Tenure of churned customers is 17.89. • It is observed that, customers with low tenure are churned more.
 
 3️] Subscription : • Tech support should be improved more. • Company should focus on customers with shorter customers ass they are more likely to be churned. • As the churn rate is higher for internet services in fiber optic, telecom company should focus more on retaining those customers and improve in that area. • Customers should be subscribed to more services & plans with longer tenures which are offered by the company's.
 
-Recommendations:
+# Recommendations:
 Based on the analysis, here are some actionable recommendations:
 
 Encourage customers to subscribe to One-Year and Two-Year contracts, offering incentives to mitigate the higher monthly costs.
